@@ -1,0 +1,9 @@
+C:\Users\Felip\source\repos\PCalc\PCalc\obj\Debug\PCalc.csprojAssemblyReference.cache
+C:\Users\Felip\source\repos\PCalc\PCalc\obj\Debug\PCalc.Properties.Resources.resources
+C:\Users\Felip\source\repos\PCalc\PCalc\obj\Debug\PCalc.csproj.GenerateResource.cache
+C:\Users\Felip\source\repos\PCalc\PCalc\bin\Debug\PCalc.exe.config
+C:\Users\Felip\source\repos\PCalc\PCalc\bin\Debug\PCalc.exe
+C:\Users\Felip\source\repos\PCalc\PCalc\bin\Debug\PCalc.pdb
+C:\Users\Felip\source\repos\PCalc\PCalc\obj\Debug\PCalc.PVolume.resources
+C:\Users\Felip\source\repos\PCalc\PCalc\obj\Debug\PCalc.exe
+C:\Users\Felip\source\repos\PCalc\PCalc\obj\Debug\PCalc.pdb
