@@ -1,0 +1,8 @@
+c:\users\0030481921020\documents\visual studio 2013\Projects\Pcalc\Pcalc\bin\Debug\Pcalc.exe.config
+c:\users\0030481921020\documents\visual studio 2013\Projects\Pcalc\Pcalc\bin\Debug\Pcalc.exe
+c:\users\0030481921020\documents\visual studio 2013\Projects\Pcalc\Pcalc\bin\Debug\Pcalc.pdb
+c:\users\0030481921020\documents\visual studio 2013\Projects\Pcalc\Pcalc\obj\Debug\Pcalc.Form1.resources
+c:\users\0030481921020\documents\visual studio 2013\Projects\Pcalc\Pcalc\obj\Debug\Pcalc.Properties.Resources.resources
+c:\users\0030481921020\documents\visual studio 2013\Projects\Pcalc\Pcalc\obj\Debug\Pcalc.csproj.GenerateResource.Cache
+c:\users\0030481921020\documents\visual studio 2013\Projects\Pcalc\Pcalc\obj\Debug\Pcalc.exe
+c:\users\0030481921020\documents\visual studio 2013\Projects\Pcalc\Pcalc\obj\Debug\Pcalc.pdb
